@@ -1,0 +1,10 @@
+E:\Minesweeper-DotNet-master\Minesweeper\bin\Debug\Minesweeper.exe.config
+E:\Minesweeper-DotNet-master\Minesweeper\bin\Debug\Minesweeper.exe
+E:\Minesweeper-DotNet-master\Minesweeper\bin\Debug\Minesweeper.pdb
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.exe
+E:\Minesweeper-DotNet-master\Minesweeper\obj\Debug\Minesweeper.pdb
